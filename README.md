@@ -100,12 +100,11 @@
 ### 📋 Пример вывода
 **LCD-дисплей:**
 ![Вид дисплея](img/lcd.jpg)
-
 ```text
 NS8266
-High (Top 4): 10075
-Medi (Mid 4):  3237
-Low (Rest):    2127
+High: 10075
+Medi: 3237
+Low (12/13): 2127
 ```
 **График Python:** <br>
 ![Вид графика](img/graph.png)
